@@ -1,12 +1,12 @@
 # VSCode Profile: `cpp::default`
 
-A specialized Visual Studio Code profile for C and C++ development, layered on top of the global `default` profile. This profile includes tools for Clang-based development, CMake integration, and standard formatting and code style conventions for modern C/C++ workflows.
+A specialized Visual Studio Code profile for C and C++ development, layered on top of the global [`default`](https://github.com/BobDaGecko/VSCode-Profiles/tree/main/profiles/default) profile. This profile includes tools for Clang-based development, CMake integration, and standard formatting and code style conventions for modern C/C++ workflows.
 
 ---
 
 ## 🧩 Additional Extensions
 
-These extensions are included **in addition to** those defined in the [`default`](https://github.com/BobDaGecko/VSCode-Profiles) profile:
+These extensions are included **in addition to** those defined in the [`default`](https://github.com/BobDaGecko/VSCode-Profiles/tree/main/profiles/default) profile:
 
 | Extension                               | Purpose                                        |
 | --------------------------------------- | ---------------------------------------------- |
