@@ -72,6 +72,7 @@ Install with: `cat extensions.txt | xargs -L 1 code --install-extension`
 
 - **Commit Subject Length Validation**: Max 60 characters
 - **Sync Confirmation**: Disabled
+- **Auto Fetch**: Enabled
 
 ### 🐞 Debugging
 
